@@ -1,0 +1,9 @@
+PyYAML
+XlsxWriter==1.1.6
+arpeggio==1.9.0
+pdoc3
+prettytable==3.8.0
+requests>=2.30.0
+scp==0.14.5
+tag-expressions==1.1.0
+openapi-python-client==0.19.0
